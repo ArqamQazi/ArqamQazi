@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arqam Qazi</h1>
 <h3 align="center">A passionate Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/17034874/media/ccd3685eddcc7b62452e37ce1d508bb1.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
