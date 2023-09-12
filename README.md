@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arqam Qazi</h1>
 <h3 align="center">A passionate Programmer</h3>
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArqamQazi](https://github.com/ArqamQazi?tab=repositories)
 
